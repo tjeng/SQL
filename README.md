@@ -1,2 +1,2 @@
 # SQL
-Answers to SQL interview questions
+Resources and Answers to SQL interview questions
